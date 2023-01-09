@@ -1,4 +1,4 @@
-# Sony_PSP_Painter (Beware the lame coding)
+# Sony_PSP_Painter
 
 this is my very first side project when I started to learn coding an year ago, and I simply did it out of interest, so the coding might be lame.
 
