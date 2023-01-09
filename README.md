@@ -13,3 +13,6 @@ For some reason this 2002 machine runs more stable when everything is written in
 
 If you want to open it with a PSP simulator...
 - download the entire folder and throw the EBOOT file into the PPSSPP simulator.
+
+
+![321025639_6147889361910551_7483660921779452322_n](https://user-images.githubusercontent.com/87590897/211264154-a2368b22-1ba2-4623-8d23-9935ded836cf.jpg)
